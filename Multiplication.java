@@ -6,6 +6,7 @@ public class Multiplication {
 
         // Perform multiplication
         int result = number1 * number2;
+        result = number1 * number2 * number2;
 
         // Print the result
         System.out.println("The result of multiplying " + number1 + " and " + number2 + " is: " + result);
